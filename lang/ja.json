@@ -1,0 +1,17 @@
+{
+    "You're logged in!" : "ログインしました！",
+    "Profile Information" : "プロフィール",
+    "Update your account's profile information and email address." : "アカウント名とメールアドレスを更新します。",
+    "Update Password" : "パスワード更新",
+    "Ensure your account is using a long, random password to stay secure." : "安全のために、長くてランダムなパスワードを使用していることを確認してください。",
+    "Current Password" : "現在のパスワード",
+    "New Password" : "新しいパスワード",
+    "Confirm Password" : "パスワードの再入力",
+    "Delete Account" : "アカウントの削除",
+    "Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain." : "アカウントが削除されると、そのリソースとデータはすべて完全に削除されます。 アカウントを削除する前に、保持したいデータや情報をダウンロードしてください。",
+    "Name" : "お名前",
+    "Email" : "メールアドレス"
+
+}
+
+
